@@ -7,15 +7,15 @@ pre {
 }
 
 hr {
-	border: 1px solid #00ff00;
+	border: 1px solid #ffffff;
 }
 
 a:hover {
-	color: #009500;
+	color: #b0b0b0;
 }
 
 a {
-	color: #00DC00;
+	color: #e3e3e3;
 	font-family: arial;
 	font-size: 13px;
 	line-height: 14pt;
@@ -23,7 +23,7 @@ a {
 }
 
 .special {
-	color: #00ff00;
+	color: #ffffff;
 	font-family: monospace;
 	line-height: 10pt;
 }
